@@ -14,7 +14,7 @@ module.exports = {
    */
   execute(awsdassdasd, woof) {
     awsdassdasd.reply({
-      content: "https://discord.gg/j8CMjddR",
+      content: "your discord server/website!",
     });
   },
 };
