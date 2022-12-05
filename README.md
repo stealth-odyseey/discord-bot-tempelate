@@ -35,5 +35,7 @@ then make a new folder/project
 7 run node . 
 8 enjoy!
 
+forgot to mention but rename .env.example to .env :) 
+
 
 IF  YOU NEED HELP JOIN DISCORD AND MAKE A TICKET https://discord.gg/BgHRMDrR!
