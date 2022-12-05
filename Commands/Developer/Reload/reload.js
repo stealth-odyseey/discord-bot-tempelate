@@ -11,6 +11,6 @@ module.exports = {
       options.setName("events").setDescription("Reload your events.")
     )
     .addSubcommand((options) =>
-      options.setName("commands").setDescription("Reload your commands")
+      options.setName("commands").setDescription("Reload your commands!")
     ),
 };
