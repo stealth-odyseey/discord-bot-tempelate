@@ -1,24 +1,24 @@
 {
   "name": "discordbot",
-  "version": "1.0.0",
-  "description": "Discord.js v14 Template based on Lyxcode's Handler (Advanced)",
+  "version": "1.0",
+  "description": "simple discord.js bot ",
   "main": "index.js",
   "scripts": {
     "test": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Discord-Robots/Discord.js-v14-Template.git"
+    "url": "https://github.com/stealth-odyseey/discord-bot-tempelate"
   },
   "keywords": [
     "template"
   ],
-  "author": "marv#8280",
+  "author": "stealth-odyseey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Discord-Robots/Discord.js-v14-Template/issues"
+    "url": "https://github.com/stealth-odyseey/discord-bot-tempelate"
   },
-  "homepage": "https://github.com/Discord-Robots/Discord.js-v14-Template#readme",
+  "homepage": "https://github.com/stealth-odyseey/discord-bot-tempelate",
   "dependencies": {
     "@anishshobith/deeptype": "^1.1.0",
     "axios": "^0.27.2",
