@@ -14,7 +14,7 @@ const {
   module.exports = {
     data: new SlashCommandBuilder()
       .setDefaultMemberPermissions(PermissionFlagsBits.ModerateMembers)
-      .setName("warn")
+      .setName("warning")
       .setDescription("Warn a user or remove a warn")
       .addSubcommand((subCmd) =>
         subCmd
