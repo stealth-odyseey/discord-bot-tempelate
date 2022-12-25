@@ -9,7 +9,7 @@ const {
   ThreadMember,
   User,
 } = Partials;
-const Util = require("./Structures/Utils");
+const Util = require("../Structures/Utils");
 const { BotToken } = process.env;
 const { loadEvents } = require("./Handlers/Events");
 const { loadCommands } = require("./Handlers/Commands");
